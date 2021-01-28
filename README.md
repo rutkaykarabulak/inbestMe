@@ -24,7 +24,9 @@ Development environment: Jupyer Notebook
 Note: I can't share data directly, all data belongs to company and without their permission it can't be shared in online platforms. Please email me to access data.
 
 Rutkay Karabulak
-2020-12-28
+
+2020/12/28
+
 Interview process with InBestMe
 
 
